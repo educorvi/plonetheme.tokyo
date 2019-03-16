@@ -6,9 +6,9 @@ body {
 }
 
 #content-header {
-  background-color: #007bb1;
+  background-color: #dddddd;
   padding: 1em 0;
-  margin-bottom: 48px;
+  margin-bottom: 0px;
 }
 
 #site-logo {

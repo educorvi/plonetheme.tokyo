@@ -1,10 +1,10 @@
 <div id="portal-header" tal:define="navroot context/@@plone_portal_state/navigation_root_url">
-
+  
   <div class="row">
 
     <div class="col-xs-6">
       <a href="${navroot}">
-        <img id="site-logo" src="" alt="" tal:attributes="src string:${navroot}/++resource++plonetheme.tokyo/plone-logo-white.svg">
+        <img id="site-logo" src="" alt="" tal:attributes="src string:${navroot}/++resource++plonetheme.tokyo/educorvi_400.png">
       </a>
     </div>
 

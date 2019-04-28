@@ -18,7 +18,6 @@ body {
 #portaltab-burger-menu {
   text-align: right;
   margin: 7px 0;
-  color: #fff;
 }
 
 .documentFirstHeading {
@@ -28,4 +27,8 @@ body {
 
 .documentDescription {
   margin-bottom: 20px;
+}
+
+.img-responsive {
+  max-width: 100%;
 }
